@@ -1,5 +1,3 @@
-# toda
-
 Toda is a ledgerless blockchain designed as an efficient value exchange mechanism and provenance platform. It enables a new class of application and unlocks problem domains previously inaccessible to distributed technology.
 
 Traditional ledger-based blockchain technologies are designed to enforce a rigorous global consensus, which is verified every cycle. Each network participant holds a local copy of a large and ever expanding global ledger, with every transaction processed by each validating node.
