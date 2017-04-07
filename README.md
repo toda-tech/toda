@@ -9,3 +9,5 @@ Toda's ledgerless blockchain achieves similar guarantees of scarcity, secure val
 Ledgerless blockchains are poised to fulfill the full promises of blockchain technology by enabling frictionless value exchange with unbounded transaction volume.
 
 Toda is actively developing the ledgerless blockchain ecosystem in tandem with our partners and joint ventures. Please contact toda-dev@privacyshell.com for a preview of our protocol specification and implementation guide. Our main release is scheduled for Q3 2017, timed in conjunction with our joint ventures.
+
+(We'll also be posting updates and some insight into our engineering process over at our [technology blog](https://toda-tech.github.io)))
